@@ -1,37 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=3776ab&height=150&section=header&text=Gabriel%20Medeiros&fontSize=50&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3776AB&center=true&vCenter=true&width=800&height=100&lines=GABRIEL+MEDEIROS;BACKEND+DEVELOPER;SYSTEMS+ARCHITECTURE;PYTHON+ENTHUSIAST" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
+</p>
+
+### ⚡ Status Report
+> "Focado em transformar lógica complexa em código simples e eficiente."
+
+- 🔭 **Atualmente:** Estudando a base da Web para dominar o Fullstack.
+- 🐍 **Meta Principal:** Especialista em **Python** e Arquitetura de Sistemas.
+- ⚡ **Curiosidade:** Busco sempre o caminho mais lógico para resolver um bug.
+
+---
+
+### 🛠️ System Tools (Tecnologias)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,linux,git,github,vscode,pycharm,mysql,docker,bash&theme=dark" />
+</div>
+
+---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGbzz&show_icons=true&theme=tokyonight&hide_border=false&border_color=3776ab&title_color=3776ab" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGbzz&layout=compact&theme=tokyonight&hide_border=false&border_color=3776ab&title_color=3776ab" width="45%">
+</p>
+
+---
+
+### 📡 Connection Protocol
+<div align="center">
+  <a href="https://linkedin.com/in/GabrielGbzz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>
 
 <br>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Gabriel Medeiros"
-        self.role = "Backend Enthusiast & Pythonista"
-        self.languages = ["Python", "HTML", "CSS"]
-        self.focus = "Data Structures & Clean Code"
-
-    def current_status(self):
-        return "Buscando a lógica por trás de sistemas eficientes."
-
-print(Developer().current_status())
-💻 Tech Stack & Tools
-<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,html,css,git,github,vscode,linux,pycharm,discord%26theme%3Ddark" /> </div>
-
-📊 Dev Metrics
-<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGabrielGbzz%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D3776ab" width="48%"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGabrielGbzz%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D3776ab" width="45%"> </p>
-
-🔭 Roadmap de Estudos
-[x] Web Fundamentos: HTML5 e CSS3.
-
-[ ] Lógica de Programação: Aprofundando em algoritmos.
-
-[ ] Python: Automações e Backend (Em breve).
-
-[ ] Bancos de Dados: SQL e organização de informação.
-
-🤝 Connect with me
-<div align="center"> <a href="https://www.google.com/search?q=https://linkedin.com/in/GabrielGbzz"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"> </a> <a href="mailto:gabriel@exemplo.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
-
-<p align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%"> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=3776ab&height=30&section=footer&opacity=0.3" width="100%"/>
+</div>
